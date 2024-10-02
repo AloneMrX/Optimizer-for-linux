@@ -3,7 +3,7 @@ A simple and lag free optimizer for linux users.
 
 # Linux Optimizer
 
-![Linux Optimizer Logo]) <!-- Replace with the path to your logo -->
+ <!-- Replace with the path to your logo -->
 
 A simple and efficient tool designed to optimize your Linux system for better performance, stability, and resource management. This project aims to provide users with an easy way to enhance their Linux experience.
 

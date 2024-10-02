@@ -29,20 +29,6 @@ A simple and efficient tool designed to optimize your Linux system for better pe
    ```bash
    git clone https://github.com/yourusername/linux-optimizer.git
    cd linux-optimizer
-Install required dependencies:
-
-bash
-pip install -r requirements.txt
-Run the optimizer:
-
-bash
-python optimizer.py
-Usage
-Launch the tool from your terminal:
-
-bash
-python optimizer.py
-Follow the on-screen prompts to select optimization options.
 
 Review the results and apply the recommended optimizations.
 

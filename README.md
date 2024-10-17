@@ -27,7 +27,7 @@ A simple and efficient tool designed to optimize your Linux system for better pe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linux-optimizer.git
+   git clone https://github.com/AloneMrX/Optimizer-for-linux.git
    cd linux-optimizer
 
 Review the results and apply the recommended optimizations.
